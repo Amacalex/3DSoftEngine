@@ -1,2 +1,4 @@
 # 3DSoftEngine
 A custom made 3D soft engine in the making made with no external libraries other than c# win forms.
+
+This current build is incomplete. At the moment though I know the Game Engine can properly display a 3D triangle with a 3D perspective camera and can transverse itself amongst the world. I am currently working on implementing the Game Engines 2D features first. This includes implementing its 2D physics engine and sprite rendering abilities. Once this is complete I will continue working on this engines 3D capabilities. The 3D capabilities need some more tweaking and I have to work out and fix some of the math equations I calculated by hand. For now though I am impressed in myself to calculate this Engines 3D capabilities as I worked out all the Trigonometry problems myself via by pencil and paper.
