@@ -1,0 +1,5 @@
+﻿1>------ Rebuild All started: Project: 2DGameEngine, Configuration: Debug Any CPU ------
+1>C:\Users\Anna\source\repos\2DGameEngine\2DGameEngine\Shape.cs(75,15,75,21): warning CS0169: The field 'Triangle.center' is never used
+1>C:\Users\Anna\source\repos\2DGameEngine\2DGameEngine\Form1.cs(19,17,19,23): warning CS0169: The field 'Form1.colors' is never used
+1>  2DGameEngine -> C:\Users\Anna\source\repos\2DGameEngine\2DGameEngine\bin\Debug\2DGameEngine.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
